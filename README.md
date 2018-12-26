@@ -1,2 +1,2 @@
-# Firebase-xamarin-Pop-up-and-Alert
+# Firebase Xamarin Pop up and Alert
 Create Notification App
