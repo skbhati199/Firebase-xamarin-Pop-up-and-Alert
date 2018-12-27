@@ -35,6 +35,8 @@ namespace Firebase_Notification_App
             SetDialog(title, description);
         }
 
+
+
         public void SetDialog(string title, string description)
         {
             Android.Support.V7.App.AlertDialog.Builder alertDialog = new Android.Support.V7.App.AlertDialog.Builder(this);
